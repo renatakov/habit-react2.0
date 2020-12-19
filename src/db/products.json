@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2",
+    "count": "2",
+    "step": "2",
+    "min": "2",
+    "max": "20",
+    "img": "https://images.pexels.com/photos/6190993/pexels-photo-6190993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "title": "Title",
+    "desc": "Description",
+    "price": "100"
+  },
+  {
+    "id": "2",
+    "count": "2",
+    "step": "2",
+    "min": "2",
+    "max": "20",
+    "img": "https://images.pexels.com/photos/6190993/pexels-photo-6190993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "title": "Title",
+    "desc": "Description",
+    "price": "100"
+  },
+  {
+    "id": "2",
+    "count": "2",
+    "step": "2",
+    "min": "2",
+    "max": "20",
+    "img": "https://images.pexels.com/photos/6190993/pexels-photo-6190993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "title": "Title",
+    "desc": "Description",
+    "price": "100"
+  }
+]

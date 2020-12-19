@@ -1,0 +1,21 @@
+.counterWrapper{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid black;
+}
+
+.decrement,
+.increment{
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: rgb(192, 96, 221);
+  color: black;
+  text-transform: uppercase;
+  box-shadow: 0 0 10px rgb(37, 37, 37);
+  cursor: pointer;
+  border-radius: 8px;
+}
