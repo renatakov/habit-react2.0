@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.130af0e0.chunk.css",
-    "main.js": "/static/js/main.bd60a268.chunk.js",
-    "main.js.map": "/static/js/main.bd60a268.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b1e27d8b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b1e27d8b.js.map",
-    "static/js/2.ecf23963.chunk.js": "/static/js/2.ecf23963.chunk.js",
-    "static/js/2.ecf23963.chunk.js.map": "/static/js/2.ecf23963.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.130af0e0.chunk.css.map": "/static/css/main.130af0e0.chunk.css.map",
-    "static/js/2.ecf23963.chunk.js.LICENSE.txt": "/static/js/2.ecf23963.chunk.js.LICENSE.txt"
+    "main.css": "/habit-react2.0/static/css/main.130af0e0.chunk.css",
+    "main.js": "/habit-react2.0/static/js/main.bd60a268.chunk.js",
+    "main.js.map": "/habit-react2.0/static/js/main.bd60a268.chunk.js.map",
+    "runtime-main.js": "/habit-react2.0/static/js/runtime-main.9a1d5dd4.js",
+    "runtime-main.js.map": "/habit-react2.0/static/js/runtime-main.9a1d5dd4.js.map",
+    "static/js/2.ecf23963.chunk.js": "/habit-react2.0/static/js/2.ecf23963.chunk.js",
+    "static/js/2.ecf23963.chunk.js.map": "/habit-react2.0/static/js/2.ecf23963.chunk.js.map",
+    "index.html": "/habit-react2.0/index.html",
+    "static/css/main.130af0e0.chunk.css.map": "/habit-react2.0/static/css/main.130af0e0.chunk.css.map",
+    "static/js/2.ecf23963.chunk.js.LICENSE.txt": "/habit-react2.0/static/js/2.ecf23963.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1e27d8b.js",
+    "static/js/runtime-main.9a1d5dd4.js",
     "static/js/2.ecf23963.chunk.js",
     "static/css/main.130af0e0.chunk.css",
     "static/js/main.bd60a268.chunk.js"
