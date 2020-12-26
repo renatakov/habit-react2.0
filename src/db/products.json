@@ -1,35 +1,36 @@
 [
   {
-    "id": "2",
-    "count": "2",
-    "step": "2",
-    "min": "2",
-    "max": "20",
-    "img": "https://images.pexels.com/photos/6190993/pexels-photo-6190993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "title": "Title",
-    "desc": "Description",
-    "price": "100"
+    "id": 1,
+    "count": 2,
+    "step": 1,
+    "min": 0,
+    "max": 20,
+    "img": "https://images.pexels.com/photos/791862/pexels-photo-791862.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "title": "Card 1",
+    "desc": "Чисто я по выходным",
+    "price": 100
   },
   {
-    "id": "2",
-    "count": "2",
-    "step": "2",
-    "min": "2",
-    "max": "20",
-    "img": "https://images.pexels.com/photos/6190993/pexels-photo-6190993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "title": "Title",
-    "desc": "Description",
-    "price": "100"
+    "id": 2,
+    "count": 7,
+    "step": 1,
+    "min": 4,
+    "max": 80,
+    "img": "https://images.pexels.com/photos/4627309/pexels-photo-4627309.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "title": "Card 2",
+    "desc": "Amet sit dolor impus lorem",
+    "price": 70
   },
   {
-    "id": "2",
-    "count": "2",
-    "step": "2",
-    "min": "2",
-    "max": "20",
+    "id": 3,
+    "count": 5,
+    "step": 1,
+    "min": 3,
+    "max": 50,
     "img": "https://images.pexels.com/photos/6190993/pexels-photo-6190993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "title": "Title",
-    "desc": "Description",
-    "price": "100"
+    "title": "Card3",
+    "desc": "Loren impus dolor sit amet",
+    "price": "150"
   }
 ]
+
